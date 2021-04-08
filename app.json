@@ -1,0 +1,15 @@
+{
+  "name": "Deep_Impex",
+  "displayName": "Deep_Impex",
+  "expo": {
+    "name": "Deep_Impex",
+    "slug": "Deep_Impex",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "android" : {
+    "permissions" : ["WRITE_EXTERNAL_STORAGE"]
+  }
+}

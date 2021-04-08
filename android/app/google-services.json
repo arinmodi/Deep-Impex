@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "981402115860",
+    "firebase_url": "https://an-business-management-app.firebaseio.com",
+    "project_id": "an-business-management-app",
+    "storage_bucket": "an-business-management-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981402115860:android:1b1b76c8c24e4345b5ec01",
+        "android_client_info": {
+          "package_name": "com.deepimpex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981402115860-ggj6dhuc2r5qdqkad5bnl82ukr0amnr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepimpex",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "981402115860-o9r9n4bjoit99en250abit3p05tm5dfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deepimpex",
+            "certificate_hash": "9f3bec932257e94c88b3925ecdee987e13212617"
+          }
+        },
+        {
+          "client_id": "981402115860-cgpep78da0lekn4881kqb95or69tfvru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf0ppuYkNRe0DRsFqln28jbFaDuPZ4XBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981402115860-cgpep78da0lekn4881kqb95or69tfvru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
