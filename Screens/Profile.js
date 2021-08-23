@@ -19,7 +19,6 @@ import { StackActions, NavigationActions } from 'react-navigation';
 
 export default class Profile extends React.Component{
 
-
     constructor(){
         super();
         this.state = {
@@ -31,11 +30,11 @@ export default class Profile extends React.Component{
             delete : false,
             loading : true,
         }
-    }
+    };
 
     componentDidMount = () => {
         this.fetch_user_profile();
-    }
+    };
 
     fetch_user_profile = async () => {
 
@@ -59,15 +58,15 @@ export default class Profile extends React.Component{
 
         this.setState({
             loading : false
-        })
+        });
         
     }
 
     getGalleryPermissionAsync = async () => {
-        let Gallery = await Permissions.askAsync(Permissions.MEDIA_LIBRARYL);
-        if ( Gallery.status !== "granted") {
+        let Gallery = await Permissions.askAsync(Permissions.MEDIA_LIBRARY);
+        if ( Gallery.status !== "granted"){
           alert('Sorry, we need Gallery permissions to make this work!');
-      }
+        }
     };
 
     _pickGalleryImage = async () => {

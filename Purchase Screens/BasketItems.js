@@ -89,7 +89,7 @@ class BasketItem extends React.Component{
     onSerch = (text) => {
         var that = this;
         if(text !== ''){
-            const data = this.props.navigation.getParam('data');
+            const data = this.props.Items;
             const newdata = data.filter(item => {
                 const itemdata = item.Name;
                 return itemdata.indexOf(text) > -1

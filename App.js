@@ -69,12 +69,12 @@ export default class App extends React.Component {
 
   getHash = () => {
     RNOtpVerify.getHash()
-        .then((hash) => {
-            console.log('App.js: Application hash is=> ', hash);
-        })
-        .catch((error) => {
-            console.log(error);
-        });
+      .then((hash) => {
+          console.log('App.js: Application hash is=> ', hash);
+      })
+      .catch((error) => {
+          console.log(error);
+      });
   } ;
 
   componentDidMount = () => {
