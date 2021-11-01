@@ -43,3 +43,7 @@ Menu               | Purcahse Analytics                 | Credit Analytics
 Menu               | Order Creation   | Bill Generator
 :-------------------------:|:-------------------------:|:-------------------------:
 |<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Admin Menu.png" height = 450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Order_CReation.png" height=450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Bill_Generator.png" height=450 />
+
+<br>
+
+- <b> For More : </b> Check out our Manual [click here](https://github.com/arinmodi/Deep-Impex/blob/master/App%20Manual-converted-compressed.pdf)
