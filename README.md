@@ -38,8 +38,8 @@ Menu               | Purcahse Analytics                 | Credit Analytics
 
 <br>
 
-## :compputer: Admin Panel
+## :computer: Admin Panel
 
 Menu               | Order Creation   | Bill Generator
 :-------------------------:|:-------------------------:|:-------------------------:
-|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Admin Menu.png" height = 450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Order_CReation.png height=450 />
+|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Admin Menu.png" height = 450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Order_CReation.png" height=450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Bill_Generator.png" height=450 />
