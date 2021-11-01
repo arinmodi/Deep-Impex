@@ -21,3 +21,9 @@ It has been observed for the need for creating something easy for a    company s
 </p>
 
 <br>
+
+## :camera_flash: Screenshots:
+
+Welcome               |  Register               | Login              
+:-------------------------:|:-------------------------:|:-------------------------:
+|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/welcome.png" height = 450/>|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Register.png" height = 450/>|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Login.png" height = 450/>|
