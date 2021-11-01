@@ -26,7 +26,7 @@ It has been observed for the need for creating something easy for a    company s
 
 Welcome               |  Register               | Login              
 :-------------------------:|:-------------------------:|:-------------------------:
-|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/welcome.png" height=450/>|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Register.png" height=450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Login.png"  height=450 />|
+|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/welcome.png" width=250/>|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Register.png" width=250 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Login.png"  width=250 />|
 
 <br>
 
@@ -34,7 +34,7 @@ Welcome               |  Register               | Login
 
 Menu               | Purcahse Analytics                 | Credit Analytics              
 :-------------------------:|:-------------------------:|:-------------------------:
-|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/user_menu.png" height=450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/user_purchase.png" height=450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/user_credit.png" height=450 />|
+|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/user_menu.png" width=250 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/user_purchase.png" width=250 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/user_credit.png" width=250 />|
 
 <br>
 
@@ -42,7 +42,7 @@ Menu               | Purcahse Analytics                 | Credit Analytics
 
 Menu               | Order Creation   | Bill Generator
 :-------------------------:|:-------------------------:|:-------------------------:
-|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Admin Menu.png" height=450  />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Order_CReation.png" height=450 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Bill_Generator.png" height=450 />
+|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Admin Menu.png" width=250  />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Order_CReation.png" width=250 />|<img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Bill_Generator.png" width=250 />
 
 <br>
 
@@ -82,7 +82,7 @@ Menu               | Order Creation   | Bill Generator
 ## :desktop_computer: System Flowchart:
 
 <p align="center">
-  <img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/System_flowchart.png">
+  <img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/System_flowchart.png" width = 550>
 </p>
 
 <br><br>
@@ -90,5 +90,5 @@ Menu               | Order Creation   | Bill Generator
 ## :medal_sports: Certificate of Completion:
 <br>
 <p align="center">
-  <img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Deepimpex-Arin%20-Certificate.png" height = 500>
+  <img src="https://github.com/arinmodi/Deep-Impex/blob/master/assets/Deepimpex-Arin%20-Certificate.png" width = 500>
 </p>
